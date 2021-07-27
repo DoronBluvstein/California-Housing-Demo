@@ -1,2 +1,2 @@
 # California-Housing-Demo
-Try DVC package on a project
+Try to use DVC package on the California-Housing regression project
